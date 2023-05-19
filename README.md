@@ -1,8 +1,7 @@
 # ConvADR-QA: Open-Domain Conversational Question Answering with Historical Answers
 
-Source code for AACL-IJCNLP 2022 paper ["Open-Domain Conversational Question Answering with Historical Answers"](https://arxiv.org/abs/2211.09401)
-
-Our code is based on [ConvDR](https://github.com/thunlp/ConvDR) and [ORConvQA](https://github.com/prdwb/orconvqa-release).
+- [AACL-IJCNLP 2022 Findings Paper](https://aclanthology.org/2022.findings-aacl.30/)
+- Our code is based on [ConvDR](https://github.com/thunlp/ConvDR) and [ORConvQA](https://github.com/prdwb/orconvqa-release).
 
 ## Framework
 
@@ -59,9 +58,10 @@ bash scripts/run_inference.sh
 ## Citation
 ```
 @inproceedings{fang2022open,
-   title={Open-Domain Conversational Question Answering with Historical Answers},
-   author={Fang, Hung-Chieh and Hung, Kuo-Han and Huang, Chao-Wei and Chen, Yun-Nung},
-   booktitle={Proceedings of Findings of The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP)},
-   year={2022}
+  title={Open-Domain Conversational Question Answering with Historical Answers},
+  author={Fang, Hung-Chieh and Hung, Kuo-Han and Huang, Chen-Wei and Chen, Yun-Nung},
+  booktitle={Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022},
+  pages={319--326},
+  year={2022}
 }
 ```
